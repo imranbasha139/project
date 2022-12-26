@@ -11,8 +11,16 @@ This is a web based application developed for health related based website in in
 
 ## Azure technologies used for Project
 
+![Screenshot (1)](https://user-images.githubusercontent.com/115220680/209528826-af3aa1f5-36f7-49ee-a0b4-b572392625be.png)
+
+
 - Static web apps
+![Screenshot (4)](https://user-images.githubusercontent.com/115220680/209528619-30610ad9-6429-4094-b0ec-344b3235d3f0.png)
+
+
 - Health bot
+
+![Screenshot (3)](https://user-images.githubusercontent.com/115220680/209528794-cc54fa77-be9d-4029-b561-16f52d985897.png)
 
 
 ## Screenshots
